@@ -1,0 +1,3 @@
+Customer A reported that the mobile app crashes frequently.
+Customer B is unable to reset their password through the portal.
+Customer C mentioned that they were overcharged on their last bill.
